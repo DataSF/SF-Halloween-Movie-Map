@@ -1,0 +1,39 @@
+#mapid { 
+	min-height: 500px; 
+	width:90%;
+	padding-top: 3%;
+	margin-top: 2%;
+}
+#header {
+	font-family: 'Creepster', cursive;
+	font-size:250%;
+	padding-top:3%;
+}
+
+.iconPop {
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 140px;
+}
+
+.checkBoxFilter{
+	font-family: 'Creepster', cursive;
+	font-size:150%;
+	margin-top:2.5%;
+}
+.box{
+	padding-left:5%;
+	float:left;
+}
+
+.chkimg{
+	margin-right:1%;
+	margin-left:1%;
+}
+
+.movie-text{
+}
+
+.movie-text-location{
+	font-size:85%;
+}
