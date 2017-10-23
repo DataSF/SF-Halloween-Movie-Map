@@ -1,3 +1,8 @@
+.totalviz{
+	margin-left:5%;
+	margin-right:5%;
+}
+
 #mapid { 
 	min-height: 500px; 
 	width:100%;
