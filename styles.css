@@ -1,13 +1,15 @@
 #mapid { 
 	min-height: 500px; 
-	width:90%;
+	width:100%;
 	padding-top: 3%;
 	margin-top: 2%;
 }
 #header {
 	font-family: 'Creepster', cursive;
 	font-size:250%;
-	padding-top:3%;
+	width:100%;
+	padding-top:1%;
+	margin-right:4%;
 }
 
 .iconPop {
@@ -22,13 +24,12 @@
 	margin-top:2.5%;
 }
 .box{
-	padding-left:5%;
 	float:left;
 }
 
 .chkimg{
-	margin-right:1%;
-	margin-left:1%;
+	margin-right:0.5%;
+	margin-left:0.5%;
 }
 
 .movie-text{
